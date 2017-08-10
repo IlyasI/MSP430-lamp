@@ -1,2 +1,2 @@
 # MSP430-lamp
-Program to demonstrate a 'bedside lamp' implementation with the MSP430
+Program to demonstrate a  unique 'lamp' implementation with the MSP430
